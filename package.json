@@ -1,0 +1,22 @@
+{
+  "name": "proyecto-javascript-asincronismo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jerson97/Proyecto-JavaScript-Asincronismo.git"
+  },
+  "author": "Jerson97 <jersonramirezs@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jerson97/Proyecto-JavaScript-Asincronismo/issues"
+  },
+  "homepage": "https://github.com/Jerson97/Proyecto-JavaScript-Asincronismo#readme",
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
+  }
+}
